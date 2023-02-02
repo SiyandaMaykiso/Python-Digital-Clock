@@ -10,7 +10,7 @@ I completed it with the Tkinter library in Python
 
 ## Installation on Mac
 
-1. Install latest version of Python (https://www.python.org/downloads/)for macOS
+1. Install latest version of [Python](https://www.python.org/downloads/) for macOS
 2. Download source code 
 3. Right click on application ending .py
 4. Choose Python Launcher
