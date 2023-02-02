@@ -8,9 +8,9 @@ I completed it with the Tkinter library in Python
 
 <img src="https://github.com/SiyandaMaykiso/Python-Digital-Clock/blob/main/Screen%20Shot%20Python%20Digital%20Clock.png" alt="application screenshot">
 
-## Installation on Mac
+## Installation 
 
-1. Install latest version of [Python](https://www.python.org/downloads/) for macOS
+1. Install latest version of [Python](https://www.python.org/downloads/) for macOS or [PythonforWindows](https://www.python.org/downloads/windows/) 
 2. Download source code 
 3. Right click on application ending .py
 4. Choose Python Launcher
